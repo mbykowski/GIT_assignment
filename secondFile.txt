@@ -1,1 +1,1 @@
-UserB changes secondFile.txt
+UserB changes secondFile.txt and UserA is changing secondFile.txt
