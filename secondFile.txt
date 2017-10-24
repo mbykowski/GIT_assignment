@@ -1,3 +1,1 @@
-This is the initial contents
-of the second file that comprises
-our most excellent project.
+UserA is changing secondFile.txt
